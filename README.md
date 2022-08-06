@@ -11,7 +11,7 @@
 
 ```javascript
   aboutMe = {
-    Interests: ['environment', 'growth', 'science', 'technology'],
+    interests: ['environment', 'growth', 'science', 'technology'],
   }
 ```
 
