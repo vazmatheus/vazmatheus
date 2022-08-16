@@ -7,6 +7,9 @@
 
 ```javascript
   aboutMe = {
+    firstName: 'Matheus',
+    lastName: 'Vaz',
+    age: 30,
     interests: ['environment', 'growth', 'science', 'technology'],
   }
 ```
